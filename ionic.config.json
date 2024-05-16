@@ -1,0 +1,7 @@
+{
+  "name": "barcode-check",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
